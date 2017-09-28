@@ -1,0 +1,9 @@
+#myMap{
+    height: 400px;
+}
+
+.center{
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
